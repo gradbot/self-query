@@ -1,4 +1,4 @@
-The idea of self query is to remove some of the extranious function definitions while using jQuery.
+The idea of self query is to remove some of the extraneous function definitions while using jQuery.
 
 e.g.
 

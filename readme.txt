@@ -2,7 +2,7 @@ The idea of self query is to remove some of the extraneous function definitions 
 
 e.g.
 
-Intead of writing this.
+Instead of writing this.
 
 $(".button").click(function() {
   $(".icon", this).toggle();
